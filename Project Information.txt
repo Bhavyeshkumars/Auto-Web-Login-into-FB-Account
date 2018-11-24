@@ -1,0 +1,5 @@
+This is project to auto login through Web browser to open Facebook account with help of Selenium package.
+Also here it has been used Google Chrome as web browser and it can be used alternate Firefox and other web browser depending upon user requirements.
+
+Written By
+Bhavyesh Solanki
